@@ -1,7 +1,6 @@
 # Code-Quiz
 
-
-cmoorelvt.github.io/code-quiz/
+Live Link: cmoorelvt.github.io/code-quiz/
 
 An interactive quiz that tests the users knowledge on Javascript coding fundamentals. Beat the clock as you try to answer every question before time runs out. Careful though, as every wrong answer deducts time from your clock.
 
